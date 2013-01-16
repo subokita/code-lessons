@@ -16,4 +16,4 @@ message = "I can't understand";
 // outputting new value of the variables
 println( "new x is " + x );
 println( "my apple pie is " + pie );
-println( "my new message is" + message );
+println( "my new message is " + message );
